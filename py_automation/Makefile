@@ -1,3 +1,4 @@
+#To get all the dependencies of python code
 .PHONY: help prepare-dev test lint run doc
 
 VENV_NAME?=venv
