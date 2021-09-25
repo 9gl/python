@@ -1,1 +1,4 @@
-Some link for makefiles -> https://monashbioinformaticsplatform.github.io/2017-11-16-open-science-training/topics/automation.html
+Some link:
+for makefiles -> https://monashbioinformaticsplatform.github.io/2017-11-16-open-science-training/topics/automation.html
+https://awesomeopensource.com/projects/battery/linux
+
